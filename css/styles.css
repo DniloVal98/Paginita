@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.container {
+    border: 2px solid #6A0DAD; /* Borde morado */
+    padding: 2rem;
+    background-color: #1E1E1E; /* Fondo oscuro para el contenedor */
+    border-radius: 10px;
+}
+
+.kuromi-image {
+    width: 150px;
+    height: auto;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    color: #6A0DAD; /* Texto morado */
+}
+
+p {
+    color: #00BFFF; /* Texto azul */
+}
+
+button {
+    background-color: #6A0DAD; /* Fondo del botón morado */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #551A8B; /* Color del botón al pasar el ratón */
+}
