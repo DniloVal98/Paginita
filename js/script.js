@@ -1,3 +1,3 @@
 document.getElementById("avancesButton").addEventListener("click", function() {
-    alert("¡Pequeños avances por venir!");
+    alert("¡Aca iran mas cositas, poco a poco las agrego!");
 });
